@@ -1,19 +1,33 @@
-# ProgrammingBasicsWithCSharpJuly2022
+# Programming Basics with C#
 
-FOR THE COURSE:
+## Course Description
 
-The "Programming Basics" course provides the initial programming skills necessary for all technology majors at Software University. This includes writing programming code at an entry level (basic coding skills), working with a development environment (IDE), using variables and data, operators and expressions, working with the console (reading input data and printing results), using conditional constructs (if, if-else) and loops (for, while, do-while).
+The "Programming Basics with C#" course is designed for beginners who want to acquire fundamental skills in programming with the C# language. The course covers essential concepts and techniques needed to write basic programs.
 
-SKILLS YOU WILL ACQUIRE:
+1. **Working with the Console (Input and Output)**
+   - Learn how to read data from the console.
+   - Learn how to print results to the console.
 
---> Working with the console (data input and output)
+2. **Working with Loops (for)**
+   - Use loops to repeat blocks of code.
+   - Examples of various use cases for `for` loops.
 
---> Working with loops (for)
+3. **Working with More Complex Logical Checks**
+   - Create complex conditions using logical operators.
+   - Combine multiple conditions for more detailed checks.
 
---> Work with more complex logical checks
+4. **Working with Logical Checks (if-else)**
+   - Use conditional operators to make decisions in the code.
+   - Manage different execution paths through `if-else` structures.
 
---> Working with logical checks (if-else)
+5. **Performing Simple Calculations**
+   - Basic arithmetic operations and their use in programs.
+   - Calculations and manipulation of numerical values.
 
---> Perform simple calculations
+6. **Working with More Complex Loops (Nested for Loops and while)**
+   - Use nested loops to work with multidimensional data.
+   - Use `while` loops for repetition when the number of iterations is not known beforehand.
 
---> Working with more complex loops (nested for loops and while)
+
+![Programming Basics - June 2022 - Certificate](https://github.com/IvanAbadjiev/ProgrammingBasicsWithCSharpJuly2022/assets/107812744/08b7bd6a-eb8e-45f7-8862-30cbd21087a9)
+
